@@ -20,7 +20,7 @@ This is a simple script that takes a Screenshot of your current screen and sent 
     ![App Screenshot](ScreenShots/image_2022-05-01_07-41-08.png)
 
 
-- Sent some Test messages to get the chat_id.
+- Sent some Test messages to the channel.
     ![App Screenshot](ScreenShots/image_2022-05-01_07-47-29.png)
 
 
