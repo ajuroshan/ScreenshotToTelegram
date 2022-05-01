@@ -8,9 +8,9 @@ now = datetime.datetime.now()
 Dateandtime = now.strftime("%y-%m-%d %H:%M:%S")
 
 myScreenshot = pyautogui.screenshot()
-myScreenshot.save(r'<PATH TO SAVE YOUR SCREENSHOTS>')
+myScreenshot.save(r'<PATH TO SAVE YOUR SCREENSHOTS>/screenshot.png')
 
-my_file = open(r'<PATH TO SAVE YOUR SCREENSHOTS>', "rb")
+my_file = open(r'<PATH TO SAVE YOUR SCREENSHOTS>/screenshot.png', "rb")
 
 parameters = {
     "chat_id" : "CHAT ID",
